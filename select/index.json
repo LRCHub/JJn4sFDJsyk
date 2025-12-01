@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "REAL-T - \" KATA \" feat. 孫GONG (prod.FEZBEATZ)",
+  "base_artist": "DexFilmz",
+  "createdAt": "2025-12-01T15:13:13.717607Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Real T.V.",
+      "artist": "Hush feat. Bizarre",
+      "has_synced": false,
+      "path": "select/01_Real_T.V._Hush_feat._Bizarre.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Even Better Than The Real T...",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/02_Even_Better_Than_The_Real_T..._U2.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Real T.V.",
+      "artist": "Steeve Estatof",
+      "has_synced": false,
+      "path": "select/03_Real_T.V._Steeve_Estatof.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Machikaze (feat. REAL-T)",
+      "artist": "Jin Dogg",
+      "has_synced": false,
+      "path": "select/04_Machikaze_(feat._REAL-T)_Jin_Dogg.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Real Thing Shakes",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_Real_Thing_Shakes_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "REAL(TVアニメ・ヴァージョン)",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_02_REAL(TVアニメ・ヴァージョン)_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Realtime To Paradise",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_03_Realtime_To_Paradise_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Real Time Of The World",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_04_Real_Time_Of_The_World_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Real Time",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_05_Real_Time_B'z.txt"
+    }
+  ]
+}
